@@ -10,7 +10,7 @@ Written in python3. This project is heavily inspired by Chip Huyen.
 
 
 ### Mathematical
-- [x] Reverse integers (lc_reverse_integer.py)
+- [x] Reverse integer (lc_reverse_integer.py)
 
 
 
