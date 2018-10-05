@@ -11,6 +11,7 @@ Written in python3. This project is heavily inspired by Chip Huyen.
 
 ### Mathematical
 - [x] Reverse integer (lc_reverse_integer.py)
+- [x] Zigzag Conversion (lc_zigzag_conversion.py)
 
 
 
