@@ -54,7 +54,6 @@ class Solution(object):
             ret = ret.insert(idx, item)
 
 
-
         def insertListAToListB(listA, listB):
             return listB + listA
 
