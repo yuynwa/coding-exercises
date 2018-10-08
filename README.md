@@ -16,9 +16,16 @@ Algorithms
 
 - 
 
+### Dynamic Programming
+
+- [ ] Merge k Sorted Lists
+- [x] Merge k Unlinked Sorted Lists
+
+
+
 ### Recursion
 
-- [ ] Binary search (binary_search.py)
+- [x] Binary search (binary_search.py)
 
 
 Programming Puzzles
