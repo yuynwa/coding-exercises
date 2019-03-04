@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+\
 .eggs/
 lib/
 lib64/
@@ -23,6 +24,13 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+.idea/coding-exercises.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/workspace.xml
+
 MANIFEST
 
 # PyInstaller

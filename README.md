@@ -36,6 +36,7 @@ Programming Puzzles
 
 - [x] Reverse integer (lc_reverse_integer.py)
 - [x] Zigzag Conversion (lc_zigzag_conversion.py)
+- [x] Integer to English words (lc_integer_to_english_words.py)
 
 
 
