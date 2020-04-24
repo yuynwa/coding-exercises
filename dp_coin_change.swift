@@ -53,8 +53,12 @@ func iconChangeDynamicProgramming(_ nums: [Int], _ ammount: Int) -> Int {
         }
     }
 
-    return steps.last!
+    if steps.last == Int.max - 100 {
+        steps[ammount] = 0
+    }
+    return steps[ammount]
 }
+
 
 let steps1 = iconChangeRecursive([2,5,7], 27)
 print("iconChangeRecursive: \(steps1)")
