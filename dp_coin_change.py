@@ -1,14 +1,27 @@
 #!/use/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys
-
 """
-    
-    This problem is from https://leetcode.com
+You are given coins of different denominations and a total amount of money amount.
+Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return 0
 
-    https://leetcode.com/problems/?????????
-    
+
+Example
+    Example1
+
+        Input:
+        [1, 2, 5]
+        11
+        Output: 3
+        Explanation: 11 = 5 + 5 + 1
+
+    Example2
+
+        Input:
+        [2]
+        3
+        Output: -1
+
 """
 
 def coin_change_recursive(coins: list, amount: int):
