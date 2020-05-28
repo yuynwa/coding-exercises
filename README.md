@@ -3,9 +3,10 @@ My implementation of useful data structures, algorithms
 
 This repository contains my implementation of useful data structures, algorithms.
 
-If a file name starts with 'lc', it's a problem from leetcode.com
+- If a file name starts with 'lc', it's a problem from leetcode.com
+- If a file name starts with 'hr', it's a problem from hackerrank.com
 
-Written in python3. This project is heavily inspired by Chip Huyen, thanks !
+Written in python3 and Go. This project is heavily inspired by [Chip Huyen](https://github.com/chiphuyen), thanks !
 
 
 
