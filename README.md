@@ -13,6 +13,10 @@ Written in python3 and Go. This project is heavily inspired by [Chip Huyen](http
 Algorithms
 ----------
 
+### Arrays
+
+- [x] [Left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+
 ### Sorting
 
 - 
