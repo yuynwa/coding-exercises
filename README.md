@@ -23,6 +23,7 @@ Algorithms
 
 ### Dynamic Programming
 
+- [x] Coin change
 - [ ] Merge k Sorted Lists
 - [x] Merge k Unlinked Sorted Lists
 
