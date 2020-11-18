@@ -23,9 +23,10 @@ Algorithms
 
 ### Dynamic Programming
 
-- [x] Coin change
+- [x] [Coin change](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/coin_change.py)
 - [ ] Merge k Sorted Lists
-- [x] Merge k Unlinked Sorted Lists
+- [x] [Merge k Unlinked Sorted Lists](https://github.com/yuynwa/coding-exercises/blob/master/merge_k_unlinked_sorted_lists.py)
+- [x] [Unique Paths](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_unique_paths.py)
 
 
 
@@ -44,6 +45,3 @@ Programming Puzzles
 - [x] Zigzag Conversion (lc_zigzag_conversion.py)
 - [x] Integer to English words (lc_integer_to_english_words.py)
 
-
-
-### To be continue...
