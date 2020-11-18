@@ -94,7 +94,7 @@ def formingMagicSquare(s):
 
 if __name__ == '__main__':
     # result = formingMagicSquare(s)
-
+    pass
 
 
 
