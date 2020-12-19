@@ -21,8 +21,9 @@ Algorithms
 
 ### Linked Lists
 
-- [x] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/reverse_linked_list.py))
-- [x] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) ([cycle_detection.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/cycle_detection.py))
+- [x] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/reverse_linked_list.py))
+- [x] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle) ([cycle_detection.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/cycle_detection.py))
+- [x] [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) ([delete_a_node.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/delete_a_node.py))
 
 
 
