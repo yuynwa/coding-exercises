@@ -5,6 +5,7 @@ This repository contains my implementation of useful data structures, algorithms
 
 - If a file name starts with 'lc', it's a problem from leetcode.com
 - If a file name starts with 'hr', it's a problem from hackerrank.com
+- otherswise, it's a problem from both hackerrank.com and leetcode, or just a problem
 
 Written in Python3, Swift and Go. This project is heavily inspired by [Chip Huyen](https://github.com/chiphuyen), thanks !
 
