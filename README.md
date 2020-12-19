@@ -6,7 +6,7 @@ This repository contains my implementation of useful data structures, algorithms
 - If a file name starts with 'lc', it's a problem from leetcode.com
 - If a file name starts with 'hr', it's a problem from hackerrank.com
 
-Written in python3 and Go. This project is heavily inspired by [Chip Huyen](https://github.com/chiphuyen), thanks !
+Written in Python3, Swift and Go. This project is heavily inspired by [Chip Huyen](https://github.com/chiphuyen), thanks !
 
 
 
@@ -20,7 +20,8 @@ Algorithms
 
 ### Linked Lists
 
-- [:heavy_check_mark:] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/reverse_linked_list.py))
+- [:heavy_check_mark:] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/reverse_linked_list.py))
+- [:white_check_mark:] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) ([cycle_detection.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/cycle_detection.py))
 
 
 
