@@ -23,8 +23,8 @@ Algorithms
 
 - [x] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/reverse_linked_list.py))
 - [x] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle) ([cycle_detection.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/cycle_detection.py))
-- [x] [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) ([delete_a_node.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/delete_a_node.py))
-- [x] [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) ([hr_del_duplicate_value_nodes_from_sorted_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_del_duplicate_value_nodes_from_sorted_linked_list.py))
+- [x] [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) ([hr_delete_a_node.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_delete_a_node.py))
+- [x] [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) ([hr_del_duplicate_value_nodes_from_sorted_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_del_duplicate_value_nodes_from_sorted_linked_list.py))
 
 
 
