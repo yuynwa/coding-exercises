@@ -20,7 +20,7 @@ Algorithms
 
 ### Linked Lists
 
-- [:heavy_check_mark:] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) ([merge_k_unlinked_sorted_lists.py](https://github.com/yuynwa/coding-exercises/blob/master/merge_k_unlinked_sorted_lists.py))
+- [:heavy_check_mark:] [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) ([reverse_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/reverse_linked_list.py))
 
 
 
