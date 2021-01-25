@@ -28,6 +28,7 @@ Algorithms
 ### Dynamic Programming
 
 - [x] [Coin change](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/coin_change.py)
+- [x] [Longest Common Subsequence](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_longest_common_subsequence.py)
 - [ ] Merge k Sorted Lists
 - [x] [Merge k Unlinked Sorted Lists](https://github.com/yuynwa/coding-exercises/blob/master/merge_k_unlinked_sorted_lists.py)
 - [x] [Unique Paths](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_unique_paths.py)
@@ -40,14 +41,9 @@ Algorithms
 - [x] Binary search (binary_search.py)
 
 
-Programming Puzzles
--------------------
 
-### Mathematical
 
-- [x] Reverse integer (lc_reverse_integer.py)
-- [x] Zigzag Conversion (lc_zigzag_conversion.py)
-- [x] Integer to English words (lc_integer_to_english_words.py)
+
 
 
 
@@ -61,4 +57,20 @@ Data Structures
 - [x] [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle) ([cycle_detection.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/cycle_detection.py))
 - [x] [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) ([hr_delete_a_node.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_delete_a_node.py))
 - [x] [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) ([hr_del_duplicate_value_nodes_from_sorted_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_del_duplicate_value_nodes_from_sorted_linked_list.py))
+
+
+
+
+
+
+
+Programming Puzzles
+-------------------
+
+### Mathematical
+
+- [x] Reverse integer (lc_reverse_integer.py)
+- [x] Zigzag Conversion (lc_zigzag_conversion.py)
+- [x] Integer to English words (lc_integer_to_english_words.py)
+
 
