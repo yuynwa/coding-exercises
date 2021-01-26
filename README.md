@@ -17,13 +17,15 @@ Algorithms
 
 ### Arrays
 
-- [x] [Left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+- [x] [Array Left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) ([hr_arrays_left_rotation.go](https://github.com/yuynwa/coding-exercises/blob/master/array/hr_arrays_left_rotation.go))
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([lc_merge_sorted_array.py](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_merge_sorted_array.py))
 
 
 
 ### Sorting
 
 - 
+
 
 ### Dynamic Programming
 
@@ -35,14 +37,9 @@ Algorithms
 
 
 
-
 ### Recursion
 
-- [x] Binary search (binary_search.py)
-
-
-
-
+- [x] [Binary search](https://github.com/yuynwa/coding-exercises/blob/master/recursion/binary_search.py)
 
 
 
