@@ -52,7 +52,7 @@ class Solution:
 
         length = len(s)
 
-        if length % 2 == 1:
+        if length & 1 == 1:
             return False
 
 

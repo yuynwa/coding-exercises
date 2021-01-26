@@ -42,6 +42,12 @@ Algorithms
 
 
 
+### Math
+
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([lc_happy_number.swift](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_happy_number.swift))
+- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ([lc_reverse_integer.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_reverse_integer.py))
+- [x] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) ([lc_integer_to_english_words.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_integer_to_english_words.py))
+
 
 
 
@@ -59,7 +65,9 @@ Data Structures
 - [x] [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) ([hr_del_duplicate_value_nodes_from_sorted_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_del_duplicate_value_nodes_from_sorted_linked_list.py))
 
 
+### Stack
 
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([lc_valid_parentheses.py](https://github.com/yuynwa/coding-exercises/blob/master/stack/lc_valid_parentheses.py))
 
 
 
@@ -67,10 +75,16 @@ Data Structures
 Programming Puzzles
 -------------------
 
+### String
+
+- [x] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) ([lc_zigzag_conversion.py](https://github.com/yuynwa/coding-exercises/blob/master/string/lc_zigzag_conversion.py))
+- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ([lc_roman_to_integer.py](https://github.com/yuynwa/coding-exercises/blob/master/string/lc_roman_to_integer.py))
+
+
+
 ### Mathematical
 
 - [x] Reverse integer (lc_reverse_integer.py)
-- [x] Zigzag Conversion (lc_zigzag_conversion.py)
 - [x] Integer to English words (lc_integer_to_english_words.py)
 
 
