@@ -42,12 +42,6 @@ Algorithms
 
 
 
-### Math
-
-- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([lc_happy_number.swift](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_happy_number.swift))
-- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ([lc_reverse_integer.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_reverse_integer.py))
-- [x] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) ([lc_integer_to_english_words.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_integer_to_english_words.py))
-
 
 
 
@@ -82,9 +76,9 @@ Programming Puzzles
 
 
 
-### Mathematical
+### Mathematical Math
 
-- [x] Reverse integer (lc_reverse_integer.py)
-- [x] Integer to English words (lc_integer_to_english_words.py)
-
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([lc_happy_number.swift](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_happy_number.swift))
+- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) ([lc_reverse_integer.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_reverse_integer.py))
+- [x] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) ([lc_integer_to_english_words.py](https://github.com/yuynwa/coding-exercises/blob/master/math/lc_integer_to_english_words.py))
 
