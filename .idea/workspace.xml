@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68e6394-8c9a-4170-a0d5-dad3aa041468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/lc_shortest_unsorted_continuous_subarray.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/lc_sort_colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/hr_arrays_left_rotation.go" beforeDir="false" afterPath="$PROJECT_DIR$/array/hr_arrays_left_rotation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/lc_merge_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/lc_merge_sorted_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debuging.py" beforeDir="false" afterPath="$PROJECT_DIR$/debuging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_programming/lc_longest_common_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_programming/lc_longest_common_subsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +14,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <first_editor relative-caret-position="230">
+                <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dynamic_programming/lc_longest_common_subsequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1628">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sort/lc_sort_colors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -108,10 +122,11 @@
         <option value="$PROJECT_DIR$/hr_arrays_left_rotation.go" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/hr_arrays_left_rotation.go" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/FFF.http" />
         <option value="$PROJECT_DIR$/array/dddd.go" />
         <option value="$PROJECT_DIR$/array/lc_shortest_unsorted_continuous_subarray.go" />
+        <option value="$PROJECT_DIR$/dynamic_programming/lc_longest_common_subsequence.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -146,12 +161,22 @@
             <path>
               <item name="coding-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="implementation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +190,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611746285259" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611747121053" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -297,12 +322,12 @@
       <workItem from="1611724635679" duration="441000" />
       <workItem from="1611726919594" duration="13000" />
       <workItem from="1611726936702" duration="291000" />
-      <workItem from="1611727323820" duration="8417000" />
+      <workItem from="1611727323820" duration="9224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14805000" />
+    <option name="totallyTimeSpent" value="15612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="251" y="44" width="1101" height="696" extended-state="0" />
@@ -406,13 +431,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sort/lc_sort_colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <first_editor relative-caret-position="230">
+            <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic_programming/lc_longest_common_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
         </state>
       </provider>
     </entry>

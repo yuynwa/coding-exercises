@@ -43,7 +43,7 @@
 """
 
 
-def longestCommonSubsequence_mine(text1: str, text2: str) -> int:
+def longestCommonSubsequence(text1: str, text2: str) -> int:
 
     m, n = len(text1), len(text2)
 
@@ -64,15 +64,15 @@ if __name__ == '__main__':
 
     text1 = "abcde"
     text2 = "ace"
-    assert 3 == longestCommonSubsequence_mine(text1, text2)
+    assert 3 == longestCommonSubsequence(text1, text2)
 
     text1 = "abc"
     text2 = "abc"
-    assert 3 == longestCommonSubsequence_mine(text1, text2)
+    assert 3 == longestCommonSubsequence(text1, text2)
 
     text1 = "abc"
     text2 = "def"
-    assert 0 == longestCommonSubsequence_mine(text1, text2)
+    assert 0 == longestCommonSubsequence(text1, text2)
 
 
 
