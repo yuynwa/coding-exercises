@@ -27,7 +27,8 @@ def merge(ums1, m, nums2, n):
         n1 = nums1[idx1]
         n2 = nums2[idx2]
 
-        # idx1 < 0 indicate elements in range(0, idx2) of nums2 are smaller than nums1[0]
+        # 1. idx1 < 0 indicate elements in range(0, idx2) of nums2 are smaller than nums1[0]
+        # 2. idx1 < 0 nums1[curr] should from nums2
         if idx1 >= 0 and n1 > n2:
             nums1[curr] = n1
             idx1 = idx1 - 1
@@ -38,6 +39,22 @@ def merge(ums1, m, nums2, n):
 
     print(nums1)
 
+    # while idx2 >= 0:
+    #     n1 = nums1[idx1]
+    #     n2 = nums2[idx2]
+    #
+    #     # idx1 < 0 indicate elements in range(0, idx2) of nums2 are smaller than nums1[0]
+    #     if idx1 >= 0 and n1 > n2:
+    #         nums1[curr] = n1
+    #         idx1 = idx1 - 1
+    #     elif idx1 < 0:  # batch
+    #         nums1[0:curr + 1] = nums2[0:curr + 1]
+    #         return
+    #     else:
+    #         nums1[curr] = n2
+    #         idx2 = idx2 - 1
+    #
+    #     curr = curr - 1
 
 
 if __name__ == '__main__':

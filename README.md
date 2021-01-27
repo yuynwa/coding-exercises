@@ -19,12 +19,14 @@ Algorithms
 
 - [x] [Array Left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) ([hr_arrays_left_rotation.go](https://github.com/yuynwa/coding-exercises/blob/master/array/hr_arrays_left_rotation.go))
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([lc_merge_sorted_array.py](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_merge_sorted_array.py))
+- [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ([lc_shortest_unsorted_continuous_subarray.go](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_shortest_unsorted_continuous_subarray.go))
 
 
 
 ### Sorting
 
-- 
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) ([lc_sort_colors.py](https://github.com/yuynwa/coding-exercises/blob/master/sort/lc_sort_colors.py))
+
 
 
 ### Dynamic Programming

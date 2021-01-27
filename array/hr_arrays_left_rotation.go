@@ -26,6 +26,7 @@ func reverse(a []int32) []int32 {
 
 	cnt := len(a) - 1
 
+
 	if cnt < 1 {
 		return a
 	}
