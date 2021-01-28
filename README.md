@@ -26,6 +26,7 @@ Algorithms
 ### Sorting
 
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) ([lc_sort_colors.py](https://github.com/yuynwa/coding-exercises/blob/master/sort/lc_sort_colors.py))
+- [x] [Maximum Gap](https://leetcode.com/problems/maximum-gap/) ([lc_maximum_gap.go](https://github.com/yuynwa/coding-exercises/blob/master/sort/lc_maximum_gap.go))
 
 
 
