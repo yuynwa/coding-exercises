@@ -20,6 +20,7 @@ Algorithms
 - [x] [Array Left rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) ([hr_arrays_left_rotation.go](https://github.com/yuynwa/coding-exercises/blob/master/array/hr_arrays_left_rotation.go))
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ([lc_merge_sorted_array.py](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_merge_sorted_array.py))
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ([lc_shortest_unsorted_continuous_subarray.go](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_shortest_unsorted_continuous_subarray.go))
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) ([lc_squares_of_a_sorted_array.go](https://github.com/yuynwa/coding-exercises/blob/master/array/lc_squares_of_a_sorted_array.go))
 
 
 
