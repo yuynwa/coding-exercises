@@ -60,7 +60,7 @@ Data Structures
 - [x] [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) ([hr_del_duplicate_value_nodes_from_sorted_linked_list.py](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hr_del_duplicate_value_nodes_from_sorted_linked_list.py))
 - [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ([hc_remove_linked_list_elements.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hc_remove_linked_list_elements.go))
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([hc_add_two_numbers.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hc_add_two_numbers.go))
-- [x] [Add Two Numbers](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([lc_intersection_of_2_linked_lists.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/lc_intersection_of_2_linked_lists.go))
+- [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([lc_intersection_of_2_linked_lists.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/lc_intersection_of_2_linked_lists.go))
 
 
 ### Stack
