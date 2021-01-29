@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68e6394-8c9a-4170-a0d5-dad3aa041468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linked_lists/lc_partition_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_lists/hc_add_two_numbers.go" beforeDir="false" afterPath="$PROJECT_DIR$/linked_lists/hc_add_two_numbers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_lists/hc_remove_linked_list_elements.go" beforeDir="false" afterPath="$PROJECT_DIR$/linked_lists/hc_remove_linked_list_elements.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,23 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="282">
-                <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <first_editor relative-caret-position="280">
+                <caret line="63" column="179" selection-start-line="63" selection-start-column="179" selection-end-line="63" selection-end-column="179" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linked_lists/lc_partition_list.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="402">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -174,11 +171,11 @@
         <option value="$PROJECT_DIR$/array/lc_squares_of_a_sorted_array.go" />
         <option value="$PROJECT_DIR$/linked_lists/ListNode.go" />
         <option value="$PROJECT_DIR$/linked_lists/intersection_of_2_linked_lists.go" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/linked_lists/hc_remove_linked_list_elements.go" />
         <option value="$PROJECT_DIR$/linked_lists/hc_add_two_numbers.go" />
         <option value="$PROJECT_DIR$/linked_lists/lc_partition_list.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -236,7 +233,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611935713529" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611935906281" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -330,18 +327,18 @@
       <workItem from="1611726919594" duration="13000" />
       <workItem from="1611726936702" duration="291000" />
       <workItem from="1611727323820" duration="10076000" />
-      <workItem from="1611752146179" duration="52543000" />
+      <workItem from="1611752146179" duration="52857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69007000" />
+    <option name="totallyTimeSpent" value="69321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="25" width="1101" height="763" extended-state="0" />
+    <frame x="299" y="41" width="1101" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49823943" visible="true" weight="0.27478755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49823943" visible="true" weight="0.27478755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50176054" side_tool="true" weight="0.27478755" />
       <window_info id="Designer" order="3" />
@@ -350,7 +347,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49763927" visible="true" weight="0.04511278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49763927" visible="true" weight="0.04511278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42706767" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -570,16 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="282">
-            <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_lists/lc_intersection_of_2_linked_lists.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -609,8 +596,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linked_lists/lc_partition_list.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="402">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="63" column="179" selection-start-line="63" selection-start-column="179" selection-end-line="63" selection-end-column="179" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
