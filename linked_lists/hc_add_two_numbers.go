@@ -61,12 +61,12 @@ func main() {
 	l1 = []int{0}
 	//l1 = []int{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
 	l1 = []int{2,4,3}
-	h1 := nodeList(l1)
+	h1 := NodeList(l1)
 
 	l2 := []int{9,9,9,9}
 	//l2 = []int{0}
 	l2 = []int{5,6,4}
-	h2 := nodeList(l2)
+	h2 := NodeList(l2)
 
 	head := addTwoNumbers(h1, h2)
 	for head != nil {
@@ -75,3 +75,24 @@ func main() {
 	}
 
 }
+
+//
+//func NodeList(nums []int ) *ListNode1 {
+//
+//	head := ListNode1{1, nil}
+//	next := head
+//	for i := 1; i < len(nums); i++ {
+//		node := ListNode1{nums[i], nil}
+//		next.Next = &node
+//		next = node
+//	}
+//	return &head
+//}
+//func PrintLinkedList(head *ListNode1 ) {
+//
+//	tmp := head
+//	for tmp != nil {
+//		fmt.Println(tmp.Val)
+//		tmp = tmp.Next
+//	}
+//}
