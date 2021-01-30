@@ -71,6 +71,11 @@ Data Structures
 
 
 
+### Queue & Dequeue
+
+- [x] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) ([hc_sliding_window_maximum.py](https://github.com/yuynwa/coding-exercises/blob/master/queue/hc_sliding_window_maximum.py))
+
+
 
 Programming Puzzles
 -------------------
