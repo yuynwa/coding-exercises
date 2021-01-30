@@ -62,6 +62,7 @@ Data Structures
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([hc_add_two_numbers.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/hc_add_two_numbers.go))
 - [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([lc_intersection_of_2_linked_lists.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/lc_intersection_of_2_linked_lists.go))
 - [x] [Partition List](https://leetcode.com/problems/partition-list/) ([lc_partition_list.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/lc_partition_list.go))
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ([lc_palindrome_linked_list.go](https://github.com/yuynwa/coding-exercises/blob/master/linked_lists/lc_palindrome_linked_list.go))
 
 
 ### Stack
