@@ -19,10 +19,10 @@ import (
  *     Next *ListNode
  * }
  */
-type ListNode struct {
-	Val int
-	Next *ListNode
-}
+//type ListNode struct {
+//	Val int
+//	Next *ListNode
+//}
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 
@@ -53,23 +53,6 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return head.Next
 }
 
-
-func nodeList(l []int) *ListNode {
-
-	var h1 *ListNode
-	var next *ListNode
-	for i, n := range l {
-		node := ListNode{n, nil}
-		if 0 == i {
-			h1 = &node
-		} else {
-			next.Next = &node
-		}
-		next = &node
-	}
-
-	return h1
-}
 
 
 func main() {

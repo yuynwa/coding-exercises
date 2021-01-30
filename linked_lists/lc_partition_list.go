@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
 
 	This problem is from https://leetcode.com
@@ -51,5 +53,5 @@ func main() {
 	n1 := NodeList(l1)
 
 	head := partition(n1, 0)
-	PrintNodeList(head)
+	fmt.Println(head)
 }
