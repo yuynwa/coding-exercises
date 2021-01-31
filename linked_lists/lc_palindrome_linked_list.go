@@ -1,12 +1,20 @@
 package main
 
+/*
+
+	This problem is from https://leetcode.com
+
+    https://leetcode.com/problems/palindrome-linked-list/
+
+*/
+
+
 import "fmt"
 
 type ListNode struct {
 	Val int
 	Next *ListNode
 }
-
 func isPalindrome(head *ListNode) bool {
 
 	if head == nil || head.Next == nil {
