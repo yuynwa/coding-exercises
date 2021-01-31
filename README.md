@@ -68,6 +68,7 @@ Data Structures
 ### Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ([lc_valid_parentheses.py](https://github.com/yuynwa/coding-exercises/blob/master/stack/lc_valid_parentheses.py))
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) ([lc_daily_temperatures.go](https://github.com/yuynwa/coding-exercises/blob/master/stack/lc_daily_temperatures.go))
 
 
 
