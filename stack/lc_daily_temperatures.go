@@ -14,6 +14,33 @@ import (
 
 func dailyTemperatures(T []int) []int {
 
+	result := make([]int, len(T))
+
+	for i:= len(T)-2; i >= 0;i-- {
+		j := i+1
+
+		for true {
+			if T[i] < T[j] {
+				result[i] = j - i
+				break
+			} else if result[j] == 0 {
+				result[i] = 0
+				break
+			} else if T[i] == T[j] {
+				result[i] = result[j]+j-i
+				break
+			} else {
+				j = result[j] + j
+			}
+		}
+	}
+
+	return result
+}
+
+
+func dailyTemperatures_stack(T []int) []int {
+
 	var stack []int
 	result := make([]int, len(T))
 
