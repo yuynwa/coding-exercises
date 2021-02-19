@@ -37,7 +37,8 @@ Algorithms
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) ([lc_longest_common_subsequence.py](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_longest_common_subsequence.py))
 - [ ] Merge k Sorted Lists
 - [x] [Merge k Unlinked Sorted Lists](https://github.com/yuynwa/coding-exercises/blob/master/merge_k_unlinked_sorted_lists.py)
-- [x] [Unique Paths](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_unique_paths.py)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/) ([lc_unique_paths.py](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_unique_paths.py))
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ([lc_best_time_2_buy_sell_stock.go](https://github.com/yuynwa/coding-exercises/blob/master/dynamic_programming/lc_best_time_2_buy_sell_stock.go))
 
 
 
