@@ -71,6 +71,12 @@ Data Structures
 - [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) ([lc_daily_temperatures.go](https://github.com/yuynwa/coding-exercises/blob/master/stack/lc_daily_temperatures.go))
 
 
+### Tree
+
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) ([lc_subtree_of_another_tree.go](https://github.com/yuynwa/coding-exercises/blob/master/tree/lc_subtree_of_another_tree.go))
+- [x] [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) ([lc_maximum_binary_tree.go](https://github.com/yuynwa/coding-exercises/blob/master/tree/lc_maximum_binary_tree.go))
+
+
 
 ### Queue & Dequeue
 
