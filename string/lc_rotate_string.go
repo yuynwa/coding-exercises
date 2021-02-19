@@ -10,7 +10,7 @@ import "strings"
 
 */
 
-func sss(A, B string) bool {
+func rotateString(A, B string) bool {
 	if len(A) != len(B) {
 		return false
 	}
@@ -19,5 +19,5 @@ func sss(A, B string) bool {
 
 func main() {
 
-	println(sss("abcde", "abced"))
+	println(rotateString("abcde", "abced"))
 }
