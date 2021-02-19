@@ -91,6 +91,7 @@ Programming Puzzles
 
 - [x] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) ([lc_zigzag_conversion.py](https://github.com/yuynwa/coding-exercises/blob/master/string/lc_zigzag_conversion.py))
 - [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ([lc_roman_to_integer.py](https://github.com/yuynwa/coding-exercises/blob/master/string/lc_roman_to_integer.py))
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([lc_valid_anagram.go](https://github.com/yuynwa/coding-exercises/blob/master/string/lc_valid_anagram.py))
 
 
 
