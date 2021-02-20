@@ -6,6 +6,15 @@ import (
 )
 
 
+/*
+
+	This problem is from https://leetcode.com
+
+    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+*/
+
+
 func maxProfit_dp(prices []int) int {
 
 	if len(prices) < 2 {
